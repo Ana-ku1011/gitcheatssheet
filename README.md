@@ -103,9 +103,6 @@ index 643e24f..87f08c8 100644
 @@ -119,3 +119,4 @@ at the
  ## Starter Projects
 
- See our [projects list](https://github.com/libgit2/libgit2/blob/development/PROJECTS.md).
-+# test line
-and git diff --cached to see what you’ve staged so far (--staged and --cached are synonyms):
 
 $ git diff --cached
 diff --git a/CONTRIBUTING.md b/CONTRIBUTING.md
